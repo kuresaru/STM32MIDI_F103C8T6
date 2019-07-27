@@ -1,2 +1,5 @@
-VSCode STM32F103C8T6模板 2019年3月10日
-使用说明https://www.bilibili.com/video/av45875170/
+SD卡 SPI2(PB12/13/14/15)
+串口调试 USART1 TX(PA9)
+蜂鸣器输出 TIM2CH2(PA1)
+音乐文件放到sd卡根目录music.mid
+小猿山庄367341477
